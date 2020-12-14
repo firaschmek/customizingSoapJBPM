@@ -1,0 +1,11 @@
+com\sample\CustomWebServiceWorkItemHandler$2.class
+com\sample\CustomWebServiceWorkItemHandler$CXFJavaCompileClassLoader.class
+com\sample\CustomRESTWorkItemHandler.class
+com\sample\CustomRESTServiceException.class
+com\sample\MyWorkItemTest.class
+com\sample\CustomRESTWorkItemHandler$AuthenticationType.class
+com\sample\CustomWebServiceWorkItemHandler$WSMode.class
+com\sample\CustomWebServiceWorkItemHandler.class
+com\sample\CustomWebServiceWorkItemHandler$1.class
+com\sample\ProcessMain.class
+com\sample\TestWorkItemManager.class
